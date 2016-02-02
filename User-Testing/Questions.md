@@ -1,19 +1,231 @@
-#SENG 310 - Milestone 2
+## Introductory Questions
 
-###26 January 2015
+### Personal
 
-##Interaction
+_What's your name?_
 
-2. What class do you have next? What's the professor's name?
-1. How much tuition did you pay three semesters ago?
-3. Can you get your proof of enrollment?
-4. Can you get your T2202a?
-5. What is your OneCard balance?
+```
+```
 
-##Questions
+_Where are you from?_
 
-1. When was the last time you were on the UVic website?
-2. What were you there for?
-3. Did you find it okay?
+```
+```
+_How many years have you been at UVic?_
 
-1. What is the most common reason you go to the UVic website?
+```
+```
+
+### UVic Website Questions
+
+_When was the last time you were on the UVic website?_
+
+```
+```
+_What were you there for?_
+
+```
+```
+_Did you find it okay?_
+
+```
+
+
+
+
+
+
+```
+
+_What is the most common reason you go to the UVic website?_
+
+```
+
+
+
+
+
+
+```
+
+
+## Tasks
+
+When observing users perform tasks try to provide as little assistance as possible after the initial prompt. If a user gets stuck, talk to them about what problems they're having at that point and how they got where they are.
+
+### Finding a Class
+
+_What class do you have next? What's the professor's name?_
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+### Finding Account Information
+
+_How much tuition did you pay three semesters ago?_
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+### Finding Forms
+
+_Can you get your proof of enrolment?_
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+
+
+_Can you get your T2202a?_
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+
+
+### Finding OneCard Information
+
+_What is your OneCard balance?_
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+## Closing Questions
+
+_Was there anything you found particularly difficult?_
+
+```
+
+
+
+
+
+
+```
+
+_Is there anything you think we missed?_
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
