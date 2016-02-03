@@ -1,8 +1,10 @@
-## New Student --- Name
+## New Student --- Daniel
 
-![Picture of Persona](http://placehold.it/250x250)
+<!-- Needed to start this for my story -->
 
-* **Name**: 
+![Daniel](https://static.pexels.com/photos/6972/summer-office-student-work.jpg)
+
+* **Name**: Daniel Lévesque
 * **Degree**: 
 * **Age**:
 

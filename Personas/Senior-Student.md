@@ -1,8 +1,8 @@
-## Senior Student --- Name
+## Senior Student --- Amy
 
-![Picture of Persona](http://placehold.it/250x250)
+![Amy](https://static.pexels.com/photos/7529/pexels-photo.jpeg)
 
-* **Name**: 
+* **Name**: Amy Bailey
 * **Degree**: 
 * **Age**:
 
