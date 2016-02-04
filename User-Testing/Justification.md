@@ -1,19 +1,4 @@
-  UVic Enhancement Suite will observe users in a controlled environment to collect data
-on how our target demographic interacts with the current UVic MyPage. We will ask our
-testers some brief questions in regards to their background and experience with UVic’s
-MyPage. Afterwards, we will ask our users to perform tasks related to finding specific
-information on the site. Our facilitators will try and provide as little assistance as
-possible to better emulate real-world scenarios.
+To help guide our design process our team will observe users in a controlled environment to collect qualitative data on how UVic students interact with the current UVic web services, in particular, MyPage and Student Services. After some brief background questions we will ask the students to perform a number of common tasks using the UVic web services.
 
-  We believe we can gather more useful information from observing a few in-person testers 
-than sending out impersonal questions to masses or analyzing statistical information. The 
-data we want to collect involves how a student navigates UVic’s MyPage and note any problems
-they may possess. It is not possible to numerate someone’s experience, therefore we must 
-observe students to gauge their time. Furthermore, we do not necessarily know what data we 
-need to collect. By observing users in person we can note things we did not expect.  
+We believe we can gather more useful information from observing in-person interactions and collecting qualitative data than performing either a quantitative or qualitative survey. Through one-on-one user testing we hope to gain an intuitive insight about how students use UVic web services. Also, in addition to corroborating and prioritizing our current list of pain points, we hope to discover further pain points.
 
-
-
-
-
-//feel free to change stuff, you might want to double-check my grammar
