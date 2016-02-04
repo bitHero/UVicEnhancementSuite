@@ -116,8 +116,8 @@ without frustrastion using student services.
 _Can you get your proof of enrolment?_
 
 ```
-Diana was ultimately unable to find her proof of enrolment and mistakenly thought her Registration Status in student services
-was her proof of enrolment.
+Diana was ultimately unable to find her proof of enrolment and mistakenly thought her Registration Status 
+in student services was her proof of enrolment.
 
 
 
