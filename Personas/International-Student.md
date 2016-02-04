@@ -6,9 +6,9 @@
 * **Degree**: Environmental Studies
 * **Age**: 21 Years Old
 
-**Demographics**: Hometown, prior education, religion etc.
+**Background**: Seoyeon is a 21 year old international student who is currently studying Environmental Studies at the University of Victoria. Seoyeon comes from a culture significantly different from Western culture -- Seoul, South Korea. Compared to native students, Seoyeon takes more time to read things written in English, as she tend to translate everything into Korean in her mind to help herself understand it better.
 
-Seoyeon is a 21 years old internation student who is currently studing Environmental Studies in University of Victoria. Seoyeon comes from a culture significantly different than the Western culture -- Seoul, South Korea. Campare to native students, Seoyeon always took more time to read anything writen in English, as she tend to translate everything into Korean in her mind and makes herself understand it better. Like most Environmental Studies classes go to the field often, her class alway have different location for lecture. Seoyeon has to check the timetable and coursespaces often to know where she needs to go for her next class. However, it always tooks her lots of clicks to get to the weekly timetable page. She was always wondering if UVic can update My page that can reduce the number of clicks and reading time.
+Most Environmental Studies classes go to the field often, so her lectures are always in different locations. Seoyeon has to check her timetable and Coursespaces often to figure out where she needs to go for her next class. However, it always takes many clicks to get to her weekly timetable. She would like an easier way to find out where she has to go for her next class.
 
 
 
@@ -19,7 +19,4 @@ Seoyeon is a 21 years old internation student who is currently studing Environme
 * Reading, observing plants
 * shopping, watching Korean TV shows
 
-## References
-
-* [Reference](http://www.wikipedia.com/)
 
