@@ -8,5 +8,5 @@ A Chrome Extension for making the UVic website a little more manageable
 * [x] Persona - New Student (Brendon)
 * [x] Persona - Senior Student (Brendon)
 * [x] Persona - International Student (Claire)
-* [ ] Scenario - Finding next class (Ben)
+* [x] Scenario - Finding next class (Ben)
 * [ ] Scenario - Getting Scholarship (Kent)
