@@ -1,6 +1,6 @@
 ## International Student --- Seoyeon Song
 
-![Picture of Persona](http://cache3.asset-cache.net/xd/472960231.jpg?v=1&c=IWSAsset&k=2&d=62CA815BFB1CE4807923CDAE7E8A6CCF5145F92974FB5D862B71070CEF5DCB1045F0E0E79EF520A9)
+![Seoyeon](http://cache3.asset-cache.net/xd/472960231.jpg?v=1&c=IWSAsset&k=2&d=62CA815BFB1CE4807923CDAE7E8A6CCF5145F92974FB5D862B71070CEF5DCB1045F0E0E79EF520A9)
 
 * **Name**: Seoyeon Song
 * **Degree**: Environmental Studies
@@ -15,7 +15,7 @@ Most Environmental Studies classes go to the field often, so her lectures are al
 
 **Habits**:
 
-* Mobile, laptop
+* Mobile (Android), laptop (Macbook)
 * Reading, observing plants
 * shopping, watching Korean TV shows
 
