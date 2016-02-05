@@ -1,0 +1,131 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% University/School Laboratory Report
+% LaTeX Template
+% Version 3.0 (4/2/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Linux and Unix Users Group at Virginia Tech Wiki 
+% (https://vtluug.org/wiki/Example_LaTeX_chem_lab_report)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{article}
+
+\usepackage[version=3]{mhchem} % Package for chemical equation typesetting
+\usepackage{siunitx} % Provides the \SI{}{} command for typesetting SI units
+\usepackage{fullpage}
+\usepackage{subcaption}
+\setlength{\parskip}{3mm}
+\usepackage[titletoc,title]{appendix}
+\usepackage{xfrac}
+\usepackage{tablefootnote}
+\usepackage{epstopdf}
+\usepackage{etoolbox}
+\usepackage{listings}
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
+
+\usepackage{graphicx} % Required for the inclusion of images
+
+
+\usepackage{sourcecodepro}
+\usepackage[default]{sourcesanspro}
+\usepackage[T1]{fontenc}
+
+\newcommand{\code}{\texttt}
+
+\lstset{
+  showspaces=false,
+  showtabs=false,
+  breaklines=true,
+  showstringspaces=false,
+  breakatwhitespace=true,
+  stringstyle=\color{greenstrings},
+  basicstyle=\ttfamily\color{grey}
+}
+
+%\setlength\parindent{0pt} % Removes all indentation from 
+
+\renewcommand{\arraystretch}{1.5} % Fix the table sizes
+
+
+%\usepackage{times} % Uncomment to use the Times New Roman font
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\title{\includegraphics[width=.3\textwidth]{/Users/ben/Dropbox/Resources/UVicLogo/UVicLogo} \\ \vspace{7mm} Milestone 2 \\ SENG 310} % Title
+
+
+\author{UVic Enhancement Suite} % Author name
+
+\date{\today} % Date for the report
+
+\raggedright
+\begin{document}
+
+\maketitle % Insert the title, author and date
+
+\begin{center}
+\begin{tabular}{l r}
+Team Members & Ben Hawker \\
+ & Brendon Earl \\
+ & Clair Xu \\
+ & David Draker \\
+ & Kent MacDonald \\
+Instructor: & Erini Kalliamvakou  % Instructor/supervisor
+\end{tabular}
+\end{center}
+
+% If you wish to include an abstract, uncomment the lines below
+% \begin{abstract}
+% Abstract text
+% \end{abstract}
+
+%--------------------------------------------------------------------------------
+%	SECTION 1
+%--------------------------------------------------------------------------------
+
+\section{Running WireShark}
+
+Hello
+
+
+%--------------------------------------------------------------------------------
+%	Appendices
+%--------------------------------------------------------------------------------
+
+\begin{appendices}
+
+\section{User Testing Plan}\label{ap:utesting}
+
+
+
+\end{appendices}
+
+\pagebreak
+
+%--------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%--------------------------------------------------------------------------------
+
+%\section{References}
+%
+%\bibliographystyle{unsrt}
+%
+
+
+
+%--------------------------------------------------------------------------------
+
+\end{document}
