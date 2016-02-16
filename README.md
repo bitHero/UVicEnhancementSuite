@@ -10,3 +10,9 @@ A Chrome Extension for making the UVic website a little more manageable
 * [x] Persona - International Student (Claire)
 * [x] Scenario - Finding next class (Ben)
 * [x] Scenario - Getting Scholarship (Kent)
+
+## Milestone 3
+
+* [ ] Use Case 1
+* [ ] Use Case 2
+* [ ] Low Fidelity Prototype(s)
