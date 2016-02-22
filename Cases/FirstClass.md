@@ -1,8 +1,8 @@
 ##Use Case 2
 
 1. Open UVic.ca
-2. Goes to MySpace
-3. Logs in
+2. Logs in
+3. Goes to MySpace
 4. Taken to Home and notices Agenda module on right side
 4. Finds Courses on Agenda module
 5. Clicks "Math 100"
