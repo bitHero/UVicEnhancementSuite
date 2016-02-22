@@ -3,11 +3,10 @@
 1. Open UVic.ca
 2. Logs in
 3. Goes to MySpace
-4. Taken to Home and notices Agenda module on right side
-4. Finds Courses on Agenda module
-5. Clicks "Math 100"
+4. Taken to Home and notices agenda module on right side
+5. Clicks 'Math 100' on agenda module
 6. Expands to show time and location
-7. Sees Location is DTB 107
+7. Sees location is DTB 107
 8. Clicks DTB
 9. Taken to google maps with dropped pin
 10. He logs off

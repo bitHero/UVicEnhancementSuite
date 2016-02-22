@@ -1,8 +1,8 @@
 ##Use Case 1
 
 1. Open UVic.ca
-2. Logs in t
-3. Goes to MySpace
+2. Logs in
+3. Clicks on 'MyHome' button
 4. Clicks 'Records' tab
 5. Clicks 'Transcripts' subtab
 6. Sees a copy of her unofficial transcript
