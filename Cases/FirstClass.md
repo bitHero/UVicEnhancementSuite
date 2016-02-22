@@ -3,3 +3,8 @@
 1. Open UVic.ca
 2. Logs in
 3. Goes to MySpace
+4. Views Agenda on Home Page
+5. Clicks "Math 100"
+6. Sees Location is DTB 107
+7. Clicks DTB
+8. Taken to google maps with dropped pin
