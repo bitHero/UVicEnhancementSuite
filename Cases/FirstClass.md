@@ -3,7 +3,7 @@
 1. Open UVic.ca
 2. Goes to MySpace
 3. Logs in
-4. Sees Home Page and notices Agenda module on right side
+4. Taken to Home and notices Agenda module on right side
 4. Finds Courses on Agenda module
 5. Clicks "Math 100"
 6. Expands to show time and location
