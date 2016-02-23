@@ -4,15 +4,13 @@
 
 * **Name**: Amy Bailey
 * **Degree**: Film Studies
-* **Age**: 35
+* **Age**: 23
 
 **Demographics**: Fredericton, New Brunswick, Digital Filmmaking Professional Diploma, Buddhist
 
-Amy is an artsy 35 year old girl from Fredricton, New Brunswick. After graduating from high school she decide to travel. After visiting places such as Morocco, Cuba, Peru, and Nicaragua, she fell in love with the many stories told to her by locals along her trip and the unique dance at each location. Inspired by people of the world's ability to express themselves, Amy set out to capture her perspective and tell stories.  
+Amy is an artistic 23 year old girl from Fredricton, New Brunswick. After graduating from high school she spent a year travelling. She fell in love with the many stories of people she met. Inspired by this, Amy set out to capture her perspective and tell stories through film.  
 
-Once home in Canada, Amy attended the Centre for Arts and Technology in her hometown, Fredericton. After completing the 12 month program, she began filmmaking with a few friends she met while travelling and later formed a film company. Together they produced short films  and documentaries on cultures around the world, earning a position as some of the best documentaries at film festivals due to their wide perspective and deep understanding of their field.
-
-After many years of film producing, Amy is taking her production and company to the next level by getting a degree in Film Studies at UVic. What drove her here was the freedom a new part of the country presented, while still providing a coastal atmosphere. In her third year of study she's digging deeper into relevant courses, while also beginning to see the light at the end of the tunnel - and developing valuable ideas as a result. As effective as Amy has been producing films, she can be a bit forgetful at times when her creativity takes over. 
+Once home in Canada, Amy began filmmaking with a couple friends. They spent a few months producing short films, but soon learned they needed more knowledge if they wanted to continue; so she decided to move to Victoria, BC and attend the University of Victoria. In her third year of film studies she's digging deeper into relevant courses while beginning to see the light at the end of the tunnel. As effective as Amy has been producing films, she can be a bit forgetful at times when her creativity takes over. 
 
 **Habits**:
 
