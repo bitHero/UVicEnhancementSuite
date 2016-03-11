@@ -6,6 +6,7 @@ What question(s) will you try to answer through your user study?
 
 
 Which users will you recruit to try out the prototype? (refer to your personas for guidance!)  How many?  How will you recruit them? How will you gather their consent?
+
 We'll try to recruit the same users we had in our initial testing and new users to account for practice effects. We're aiming for double our users from the first test, but we will try to get as many as possible. We'll use sugar-induced incentives to gain consent.
 
 
